@@ -1,4 +1,3 @@
 # Meddy
 
-## Mobile Application
-for medical personnel and patient
+Mobile application for medical personnel
